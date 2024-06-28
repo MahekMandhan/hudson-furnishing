@@ -18,6 +18,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 });
+
 //   sign
 function register() {
     var username = document.getElementById("username1").value
@@ -42,6 +43,7 @@ function register() {
             $('#username').show();
     }
 }
+
 // login form
 function login() {
     var email = document.getElementById('uemail').value

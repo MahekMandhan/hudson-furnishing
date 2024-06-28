@@ -145,12 +145,6 @@ function changeQuantity(key, quantity){
     reloadCard();
 }
 
-// if(localStorage.getitem("token") == "yes"){
-    
-// }
-// else{
-//     window.location.href = "index.html.sectionsignup"
-// }
 if(localStorage.getItem("useremail") != "")
 {
     var card = document.getElementById("adc-card")

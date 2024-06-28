@@ -22,7 +22,6 @@ $.ui = $.ui || {};
 
 var version = $.ui.version = "1.13.2";
 
-
 /*!
  * jQuery UI Widget 1.13.2
  * http://jqueryui.com
